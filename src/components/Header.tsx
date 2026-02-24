@@ -43,12 +43,12 @@ const Header = () => {
         </nav>
 
         <div className="hidden items-center gap-3 lg:flex">
-          <a href="tel:+18883023455" className="flex items-center gap-1.5 text-sm font-semibold text-primary">
+          <a href="tel:+18884054616" className="flex items-center gap-1.5 text-sm font-semibold text-primary">
             <Phone className="h-4 w-4" />
-            (888) 302-3455
+            (888) 405-4616
           </a>
           <Button asChild className="bg-accent text-accent-foreground hover:bg-accent/90">
-            <a href="tel:+18883023455">Call Now</a>
+            <a href="tel:+18884054616">Call Now</a>
           </Button>
         </div>
 
@@ -75,11 +75,11 @@ const Header = () => {
               </Link>
             ))}
             <div className="mt-3 flex flex-col gap-2 border-t border-border/50 pt-3">
-              <a href="tel:+18883023455" className="flex items-center gap-2 text-sm font-semibold text-primary">
-                <Phone className="h-4 w-4" /> (888) 302-3455
+              <a href="tel:+18884054616" className="flex items-center gap-2 text-sm font-semibold text-primary">
+                <Phone className="h-4 w-4" /> (888) 405-4616
               </a>
               <Button asChild className="bg-accent text-accent-foreground hover:bg-accent/90">
-                <a href="tel:+18883023455">Call Now</a>
+                <a href="tel:+18884054616">Call Now</a>
               </Button>
             </div>
           </nav>

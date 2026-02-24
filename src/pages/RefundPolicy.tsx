@@ -16,10 +16,10 @@ const RefundPolicy = () => (
     <h2>Disputes</h2>
     <p>If you experience any billing issues related to a service activated through Orbit Stream, we encourage you to:</p>
     <p>1. Contact the service provider directly regarding their refund policy</p>
-    <p>2. Contact Orbit Stream at <a href="tel:+18883023455">(888) 302-3455</a> and our team will assist you in resolving the issue with the provider</p>
+    <p>2. Contact Orbit Stream at <a href="tel:+18884054616">(888) 405-4616</a> and our team will assist you in resolving the issue with the provider</p>
 
     <h2>Contact</h2>
-    <p>For questions about this Refund Policy, please contact <strong>Cynthia Chambless</strong> / Orbit Stream at <a href="tel:+18883023455">(888) 302-3455</a>.</p>
+    <p>For questions about this Refund Policy, please contact <strong>Cynthia Chambless</strong> / Orbit Stream at <a href="tel:+18884054616">(888) 405-4616</a>.</p>
   </LegalPage>
 );
 

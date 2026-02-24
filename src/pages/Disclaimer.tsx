@@ -17,7 +17,7 @@ const Disclaimer = () => (
     <p>The Website may contain links to external websites. <strong>Cynthia Chambless</strong> and Orbit Stream are not responsible for the content or practices of any third-party websites.</p>
 
     <h2>Contact</h2>
-    <p>For questions about this disclaimer, please call us at <a href="tel:+18883023455">(888) 302-3455</a>.</p>
+    <p>For questions about this disclaimer, please call us at <a href="tel:+18884054616">(888) 405-4616</a>.</p>
   </LegalPage>
 );
 

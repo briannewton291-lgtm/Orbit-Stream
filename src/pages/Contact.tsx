@@ -29,7 +29,7 @@ const Contact = () => (
                 <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-lg bg-primary/10"><Phone className="h-6 w-6 text-primary" /></div>
                 <div>
                   <h4 className="font-semibold text-foreground">Call Us</h4>
-                  <a href="tel:+18883023455" className="text-primary font-semibold hover:underline">(888) 302-3455</a>
+                  <a href="tel:+18884054616" className="text-primary font-semibold hover:underline">(888) 405-4616</a>
                   <p className="text-sm text-muted-foreground">Our preferred method of contact</p>
                 </div>
               </div>
@@ -65,7 +65,7 @@ const Contact = () => (
               <Button type="submit" className="w-full bg-accent text-accent-foreground hover:bg-accent/90">Send Message</Button>
             </form>
             <p className="mt-4 text-center text-xs text-muted-foreground">
-              For the fastest response, call us at <a href="tel:+18883023455" className="text-primary font-semibold">(888) 302-3455</a>
+              For the fastest response, call us at <a href="tel:+18884054616" className="text-primary font-semibold">(888) 405-4616</a>
             </p>
           </div>
         </div>

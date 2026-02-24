@@ -31,7 +31,7 @@ const Internet = () => (
             Compare the fastest internet plans from top providers. Find the perfect speed at the right price.
           </p>
           <Button asChild size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90">
-            <a href="tel:+18883023455" className="flex items-center gap-2"><Phone className="h-5 w-5" /> Call (888) 302-3455</a>
+            <a href="tel:+18884054616" className="flex items-center gap-2"><Phone className="h-5 w-5" /> Call (888) 405-4616</a>
           </Button>
         </motion.div>
       </div>
@@ -67,7 +67,7 @@ const Internet = () => (
                 ))}
               </ul>
               <Button asChild className="w-full bg-accent text-accent-foreground hover:bg-accent/90">
-                <a href="tel:+18883023455">Get This Plan</a>
+                <a href="tel:+18884054616">Get This Plan</a>
               </Button>
             </motion.div>
           ))}
@@ -105,7 +105,7 @@ const Internet = () => (
         <h2 className="mb-4 text-3xl font-bold text-primary-foreground">Not Sure Which Plan Is Right for You?</h2>
         <p className="mx-auto mb-8 max-w-xl text-primary-foreground/80">Our experts will match you with the perfect plan based on your needs and budget.</p>
         <Button asChild size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90">
-          <a href="tel:+18883023455" className="flex items-center gap-2"><Phone className="h-5 w-5" /> Call (888) 302-3455</a>
+          <a href="tel:+18884054616" className="flex items-center gap-2"><Phone className="h-5 w-5" /> Call (888) 405-4616</a>
         </Button>
       </div>
     </section>

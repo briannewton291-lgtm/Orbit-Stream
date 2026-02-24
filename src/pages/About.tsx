@@ -87,7 +87,7 @@ const About = () => (
         <h2 className="mb-4 text-3xl font-bold text-primary-foreground">Let's Get You Connected</h2>
         <p className="mx-auto mb-8 max-w-xl text-primary-foreground/80">Talk to our team and experience the Orbit Stream difference.</p>
         <Button asChild size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90">
-          <a href="tel:+18883023455" className="flex items-center gap-2"><Phone className="h-5 w-5" /> Call (888) 302-3455</a>
+          <a href="tel:+18884054616" className="flex items-center gap-2"><Phone className="h-5 w-5" /> Call (888) 405-4616</a>
         </Button>
       </div>
     </section>

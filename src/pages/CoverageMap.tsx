@@ -80,7 +80,7 @@ const CoverageMap = () => {
           <h2 className="mb-4 text-3xl font-bold text-primary-foreground">Can't Find Your Area?</h2>
           <p className="mx-auto mb-8 max-w-xl text-primary-foreground/80">Call us and our team will personally check provider availability at your address.</p>
           <Button asChild size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90">
-            <a href="tel:+18883023455" className="flex items-center gap-2"><Phone className="h-5 w-5" /> Call (888) 302-3455</a>
+            <a href="tel:+18884054616" className="flex items-center gap-2"><Phone className="h-5 w-5" /> Call (888) 405-4616</a>
           </Button>
         </div>
       </section>

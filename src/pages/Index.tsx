@@ -115,17 +115,17 @@ const Index = () => {
             </p>
             <div className="flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
               <Button asChild size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90 text-base px-8">
-                <a href="tel:+18883023455" className="flex items-center gap-2">
+                <a href="tel:+18884054616" className="flex items-center gap-2">
                   <Phone className="h-5 w-5" /> Call Now
                 </a>
               </Button>
               <Button asChild size="lg" variant="outline" className="border-primary text-primary hover:bg-primary/10 text-base px-8">
-                <a href="tel:+18883023455">Check Availability</a>
+                <a href="tel:+18884054616">Check Availability</a>
               </Button>
             </div>
             <p className="mt-4 text-sm font-semibold text-primary">
               <Phone className="inline h-4 w-4 mr-1" />
-              (888) 302-3455
+              (888) 405-4616
             </p>
           </motion.div>
         </div>
@@ -321,8 +321,8 @@ const Index = () => {
             Call our experts today and start saving on internet, TV, and streaming.
           </p>
           <Button asChild size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90 text-lg px-10">
-            <a href="tel:+18883023455" className="flex items-center gap-2">
-              <Phone className="h-5 w-5" /> Call (888) 302-3455
+            <a href="tel:+18884054616" className="flex items-center gap-2">
+              <Phone className="h-5 w-5" /> Call (888) 405-4616
             </a>
           </Button>
         </div>

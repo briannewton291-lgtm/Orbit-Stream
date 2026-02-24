@@ -24,7 +24,7 @@ const CookiesPolicy = () => (
     <p><strong>Cynthia Chambless</strong> / Orbit Stream may update this Cookies Policy periodically. Changes will be posted on this page.</p>
 
     <h2>Contact</h2>
-    <p>For questions about our use of cookies, please call <a href="tel:+18883023455">(888) 302-3455</a>.</p>
+    <p>For questions about our use of cookies, please call <a href="tel:+18884054616">(888) 405-4616</a>.</p>
   </LegalPage>
 );
 

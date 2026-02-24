@@ -15,8 +15,8 @@ const Footer = () => (
           <p className="text-sm text-muted-foreground">
             Your trusted partner for finding the best internet, TV, and streaming deals in your area.
           </p>
-          <a href="tel:+18883023455" className="flex items-center gap-2 text-sm font-semibold text-primary">
-            <Phone className="h-4 w-4" /> (888) 302-3455
+          <a href="tel:+18884054616" className="flex items-center gap-2 text-sm font-semibold text-primary">
+            <Phone className="h-4 w-4" /> (888) 405-4616
           </a>
         </div>
 

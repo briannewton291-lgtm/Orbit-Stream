@@ -27,7 +27,7 @@ const TermsOfService = () => (
     <p>These Terms shall be governed by the laws of the United States.</p>
 
     <h2>Contact</h2>
-    <p>For questions about these Terms, please call <a href="tel:+18883023455">(888) 302-3455</a>.</p>
+    <p>For questions about these Terms, please call <a href="tel:+18884054616">(888) 405-4616</a>.</p>
   </LegalPage>
 );
 

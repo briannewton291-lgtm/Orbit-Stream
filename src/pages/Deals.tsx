@@ -24,7 +24,7 @@ const Deals = () => (
             Don't miss out on exclusive limited-time offers and promotions from top providers.
           </p>
           <Button asChild size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90">
-            <a href="tel:+18883023455" className="flex items-center gap-2"><Phone className="h-5 w-5" /> Call for Details</a>
+            <a href="tel:+18884054616" className="flex items-center gap-2"><Phone className="h-5 w-5" /> Call for Details</a>
           </Button>
         </motion.div>
       </div>
@@ -44,7 +44,7 @@ const Deals = () => (
               <h3 className="mb-2 text-lg font-bold text-foreground">{d.title}</h3>
               <p className="mb-4 text-sm text-muted-foreground">{d.desc}</p>
               <Button asChild className="w-full bg-accent text-accent-foreground hover:bg-accent/90">
-                <a href="tel:+18883023455">Claim This Deal</a>
+                <a href="tel:+18884054616">Claim This Deal</a>
               </Button>
             </motion.div>
           ))}
@@ -57,7 +57,7 @@ const Deals = () => (
         <h2 className="mb-4 text-3xl font-bold text-primary-foreground">Want Personalized Deal Alerts?</h2>
         <p className="mx-auto mb-8 max-w-xl text-primary-foreground/80">Call us and we'll notify you when new promotions become available in your area.</p>
         <Button asChild size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90">
-          <a href="tel:+18883023455" className="flex items-center gap-2"><Phone className="h-5 w-5" /> Call (888) 302-3455</a>
+          <a href="tel:+18884054616" className="flex items-center gap-2"><Phone className="h-5 w-5" /> Call (888) 405-4616</a>
         </Button>
       </div>
     </section>

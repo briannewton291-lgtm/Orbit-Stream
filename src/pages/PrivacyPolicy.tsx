@@ -28,7 +28,7 @@ const PrivacyPolicy = () => (
     <p><strong>Cynthia Chambless</strong> and Orbit Stream implement reasonable security measures to protect your personal information. However, no method of transmission over the Internet is 100% secure.</p>
 
     <h2>Your Rights</h2>
-    <p>You may request access to, correction of, or deletion of your personal information by contacting us at <a href="tel:+18883023455">(888) 302-3455</a>.</p>
+    <p>You may request access to, correction of, or deletion of your personal information by contacting us at <a href="tel:+18884054616">(888) 405-4616</a>.</p>
 
     <h2>Changes to This Policy</h2>
     <p>We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated date.</p>

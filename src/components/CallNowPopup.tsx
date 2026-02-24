@@ -33,8 +33,8 @@ const CallNowPopup = () => {
           Call our experts now for personalized deals on internet, TV, and streaming bundles.
         </p>
         <Button asChild size="lg" className="w-full bg-accent text-accent-foreground hover:bg-accent/90">
-          <a href="tel:+18883023455" className="flex items-center justify-center gap-2">
-            <Phone className="h-5 w-5" /> Call (888) 302-3455
+          <a href="tel:+18884054616" className="flex items-center justify-center gap-2">
+            <Phone className="h-5 w-5" /> Call (888) 405-4616
           </a>
         </Button>
         <button onClick={dismiss} className="mt-3 text-xs text-muted-foreground hover:text-foreground">

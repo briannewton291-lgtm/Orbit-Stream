@@ -27,7 +27,7 @@ const TVStreaming = () => (
             From live TV to on-demand streaming, find the perfect entertainment package.
           </p>
           <Button asChild size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90">
-            <a href="tel:+18883023455" className="flex items-center gap-2"><Phone className="h-5 w-5" /> Call (888) 302-3455</a>
+            <a href="tel:+18884054616" className="flex items-center gap-2"><Phone className="h-5 w-5" /> Call (888) 405-4616</a>
           </Button>
         </motion.div>
       </div>
@@ -50,7 +50,7 @@ const TVStreaming = () => (
                 {plan.features.map((f) => <li key={f} className="flex items-center gap-2 text-sm text-muted-foreground"><Check className="h-4 w-4 text-primary shrink-0" /> {f}</li>)}
               </ul>
               <Button asChild className="w-full bg-accent text-accent-foreground hover:bg-accent/90">
-                <a href="tel:+18883023455">Get This Plan</a>
+                <a href="tel:+18884054616">Get This Plan</a>
               </Button>
             </motion.div>
           ))}
@@ -73,7 +73,7 @@ const TVStreaming = () => (
                 {s.features.map((f) => <li key={f} className="flex items-center gap-2 text-sm text-muted-foreground"><Check className="h-4 w-4 text-accent shrink-0" /> {f}</li>)}
               </ul>
               <Button asChild className="w-full bg-accent text-accent-foreground hover:bg-accent/90">
-                <a href="tel:+18883023455">Get Started</a>
+                <a href="tel:+18884054616">Get Started</a>
               </Button>
             </motion.div>
           ))}
@@ -86,7 +86,7 @@ const TVStreaming = () => (
         <h2 className="mb-4 text-3xl font-bold text-primary-foreground">Need Help Choosing?</h2>
         <p className="mx-auto mb-8 max-w-xl text-primary-foreground/80">Our experts will recommend the perfect TV and streaming combo for your household.</p>
         <Button asChild size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90">
-          <a href="tel:+18883023455" className="flex items-center gap-2"><Phone className="h-5 w-5" /> Call (888) 302-3455</a>
+          <a href="tel:+18884054616" className="flex items-center gap-2"><Phone className="h-5 w-5" /> Call (888) 405-4616</a>
         </Button>
       </div>
     </section>
