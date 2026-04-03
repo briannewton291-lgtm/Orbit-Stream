@@ -5,7 +5,7 @@ const PrivacyPolicy = () => (
     <p><em>Last updated: February 2026</em></p>
 
     <h2>Introduction</h2>
-    <p>This Privacy Policy describes how <strong>Cynthia Chambless</strong>, operating under the brand name Orbit Stream at orbitstreamconnect.com ("we," "us," or "our"), collects, uses, and protects your personal information when you visit our Website.</p>
+    <p>This Privacy Policy describes how <strong>Cynthia Chambless</strong>, operating under the brand name NexivoLink at nexivolink.com ("we," "us," or "our"), collects, uses, and protects your personal information when you visit our Website.</p>
 
     <h2>Information We Collect</h2>
     <p>We may collect the following types of information:</p>
@@ -25,7 +25,7 @@ const PrivacyPolicy = () => (
     <p>We may share your information with our provider partners to facilitate service orders you request. We do not sell your personal information to third parties.</p>
 
     <h2>Data Security</h2>
-    <p><strong>Cynthia Chambless</strong> and Orbit Stream implement reasonable security measures to protect your personal information. However, no method of transmission over the Internet is 100% secure.</p>
+    <p><strong>Cynthia Chambless</strong> and NexivoLink implement reasonable security measures to protect your personal information. However, no method of transmission over the Internet is 100% secure.</p>
 
     <h2>Your Rights</h2>
     <p>You may request access to, correction of, or deletion of your personal information by contacting us at <a href="tel:+18886558557">(888) 655-8557</a>.</p>

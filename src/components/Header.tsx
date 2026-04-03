@@ -24,7 +24,7 @@ const Header = () => {
       <div className="container mx-auto flex items-center justify-between px-4 py-3">
         <Link to="/" className="flex items-center gap-2">
           <OrbitLogo className="h-9 w-9" />
-          <span className="text-xl font-bold text-gradient-teal">Orbit Stream</span>
+          <span className="text-xl font-bold text-gradient-teal">NexivoLink</span>
         </Link>
 
         {/* Desktop nav */}

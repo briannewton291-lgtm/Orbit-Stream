@@ -5,7 +5,7 @@ const CookiesPolicy = () => (
     <p><em>Last updated: February 2026</em></p>
 
     <h2>What Are Cookies</h2>
-    <p>Cookies are small text files stored on your device when you visit orbitstreamconnect.com ("Website"), owned and operated by <strong>Cynthia Chambless</strong> under the brand name Orbit Stream. They help us provide a better browsing experience.</p>
+    <p>Cookies are small text files stored on your device when you visit nexivolink.com ("Website"), owned and operated by <strong>Cynthia Chambless</strong> under the brand name NexivoLink. They help us provide a better browsing experience.</p>
 
     <h2>How We Use Cookies</h2>
     <p>We use cookies for the following purposes:</p>
@@ -21,7 +21,7 @@ const CookiesPolicy = () => (
     <p>You can control and manage cookies through your browser settings. Please note that disabling cookies may affect the functionality of the Website.</p>
 
     <h2>Changes to This Policy</h2>
-    <p><strong>Cynthia Chambless</strong> / Orbit Stream may update this Cookies Policy periodically. Changes will be posted on this page.</p>
+    <p><strong>Cynthia Chambless</strong> / NexivoLink may update this Cookies Policy periodically. Changes will be posted on this page.</p>
 
     <h2>Contact</h2>
     <p>For questions about our use of cookies, please call <a href="tel:+18886558557">(888) 655-8557</a>.</p>

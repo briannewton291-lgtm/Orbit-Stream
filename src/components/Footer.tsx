@@ -10,7 +10,7 @@ const Footer = () => (
         <div className="space-y-4">
           <div className="flex items-center gap-2">
             <OrbitLogo className="h-8 w-8" />
-            <span className="text-lg font-bold text-gradient-teal">Orbit Stream</span>
+            <span className="text-lg font-bold text-gradient-teal">NexivoLink</span>
           </div>
           <p className="text-sm text-muted-foreground">
             Your trusted partner for finding the best internet, TV, and streaming deals in your area.
@@ -57,9 +57,9 @@ const Footer = () => (
 
       <div className="mt-10 border-t border-border/50 pt-6 space-y-3 text-center text-sm text-muted-foreground">
         <p className="text-xs leading-relaxed max-w-3xl mx-auto">
-          Disclaimer: Orbit Stream is an independent authorized dealer and is not directly affiliated with any specific internet, TV, or streaming provider. Prices, plans, and availability may vary by location and are subject to change without notice. Please verify all details directly with the provider before purchasing.
+          Disclaimer: NexivoLink is an independent authorized dealer and is not directly affiliated with any specific internet, TV, or streaming provider. Prices, plans, and availability may vary by location and are subject to change without notice. Please verify all details directly with the provider before purchasing.
         </p>
-        <p>© 2026 Orbit Stream. All rights reserved. Owned by Cynthia Chambless.</p>
+        <p>© 2026 NexivoLink. All rights reserved. Owned by Cynthia Chambless.</p>
       </div>
     </div>
   </footer>

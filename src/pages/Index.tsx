@@ -69,16 +69,16 @@ const steps = [
 ];
 
 const testimonials = [
-  { name: "Marcus T.", location: "Dallas, TX", text: "Orbit Stream found me a deal I couldn't find anywhere else. Saved $40/month on my internet!", rating: 5 },
+  { name: "Marcus T.", location: "Dallas, TX", text: "NexivoLink found me a deal I couldn't find anywhere else. Saved $40/month on my internet!", rating: 5 },
   { name: "Sarah L.", location: "Phoenix, AZ", text: "The team was incredibly helpful. They matched me with the perfect streaming bundle for my family.", rating: 5 },
-  { name: "James R.", location: "Chicago, IL", text: "Quick, easy, no pressure. I was connected within 24 hours. Highly recommend Orbit Stream!", rating: 5 },
+  { name: "James R.", location: "Chicago, IL", text: "Quick, easy, no pressure. I was connected within 24 hours. Highly recommend NexivoLink!", rating: 5 },
 ];
 
 const cities = ["New York", "Los Angeles", "Chicago", "Houston", "Phoenix", "Dallas", "San Antonio", "San Diego", "Denver", "Atlanta", "Miami", "Seattle"];
 
 const faqs = [
-  { q: "How does Orbit Stream work?", a: "Orbit Stream compares internet, TV, and streaming plans from 50+ providers in your area. Simply call us or enter your zip code, and we'll match you with the best deals available." },
-  { q: "Is there a cost to use Orbit Stream?", a: "No! Our comparison and recommendation service is completely free. We're compensated by our provider partners, so there's never a charge to you." },
+  { q: "How does NexivoLink work?", a: "NexivoLink compares internet, TV, and streaming plans from 50+ providers in your area. Simply call us or enter your zip code, and we'll match you with the best deals available." },
+  { q: "Is there a cost to use NexivoLink?", a: "No! Our comparison and recommendation service is completely free. We're compensated by our provider partners, so there's never a charge to you." },
   { q: "Which providers do you work with?", a: "We partner with major providers including AT&T, Xfinity, Spectrum, Verizon, T-Mobile, and many more regional and local providers across 48 states." },
   { q: "How quickly can I get connected?", a: "Most installations happen within 24-48 hours, depending on your provider and location. Some plans offer same-day activation." },
   { q: "Do I have to sign a contract?", a: "Many of our partner plans are contract-free. We'll help you find no-contract options if that's your preference." },
@@ -207,7 +207,7 @@ const Index = () => {
       <section className="relative overflow-hidden py-20">
         <GradientBlobs />
         <div className="container relative z-10 mx-auto px-4">
-          <SectionHeading title="Why Choose Orbit Stream" subtitle="The smarter way to find your perfect plan." />
+          <SectionHeading title="Why Choose NexivoLink" subtitle="The smarter way to find your perfect plan." />
           <div className="mx-auto grid max-w-3xl gap-4 sm:grid-cols-2">
             {features.map((f, i) => (
               <motion.div
